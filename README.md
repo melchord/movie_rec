@@ -2,7 +2,7 @@
 
 Tutorial: https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/
 
-This is a simple movie recommendation system using Pythong and Machine Learning.
+This is a movie recommendation system using Python and Machine Learning. Although the tutorial is followed, some changes were made to avoid some overlapping columns and for personal use.
 
 ## Project Dataset
 
